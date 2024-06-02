@@ -1,5 +1,10 @@
 # Projeto Tought
 
+## 📝 Descrição
+
+Tought é um projeto criado para compartilhar seus pensamentos, ideias e reflexões com as outras pessoas de uma forma autêntica.
+Esta plataforma web é um espaço onde se pode expressar livremente seus pensamentos e visualizar o pensamento de outros usuários, assim como um pequeno blog.
+
 ## 💻 Tecnologias Utilizadas
 
 Pacotes:
